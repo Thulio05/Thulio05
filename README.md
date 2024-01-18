@@ -25,5 +25,3 @@ Opa, Thulio aqui 🕷
   <a href = "mailto:thuliobezerrab@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thulio-aleixo-51a4102a0/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-![Snake animation](https://github.com/Thulio05/Thulio05/blob/output/github-contribution-grid-snake.svg)
