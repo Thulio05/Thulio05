@@ -70,6 +70,9 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
 </a>
+<a href="https://www.w3.org/Style/CSS/" target="_blank">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+</a>
 <a href="https://www.postgresql.org/" target="_blank">
   <img src="https://img.shields.io/badge/-SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
 </a>
